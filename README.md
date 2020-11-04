@@ -3,3 +3,4 @@
 battle armor with digital switch sensor
 
 can improve skill for athletes
+ ![](image/barkick.png)
